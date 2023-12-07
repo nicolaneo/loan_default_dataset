@@ -14,6 +14,6 @@ Data features:
        'defaulted_in_one_year', 'six_month_interval_label']
 
 ## Sensitive attributes
-Race: White, Hispanic/Latino, Black/African American, Asian, Native, Pacific Islanders. \\
-Sex of principal applicant: male, female \\
+Race: White, Hispanic/Latino, Black/African American, Asian, Native, Pacific Islanders.__
+Sex of principal applicant: male, female__
 Age
