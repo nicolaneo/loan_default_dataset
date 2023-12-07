@@ -15,5 +15,7 @@ Data features:
 
 ## Sensitive attributes
 Race: White, Hispanic/Latino, Black/African American, Asian, Native, Pacific Islanders.
+
 Sex of principal applicant: male, female
+
 Age
