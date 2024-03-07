@@ -1,6 +1,7 @@
 # Long-term fairness in predicting default for loan applications.
 Evaluating long-term fairness in mortgage applications when predicting default.
 
+## Data
 The files contain US mortgage applications which were approved by Freddie Mac and were able to be matched with applicant data (race, age, gender, etc.) from HMDA and the loan performance data, including whether the applicant defaulted on their loan, and when. 
 The "interval" is an index of 6 month interval which indicates the when the first payment began, which can be different from when the loan was originated (when the mortgage was approved and granted). 
 
